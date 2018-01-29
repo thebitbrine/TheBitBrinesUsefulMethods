@@ -21,4 +21,4 @@ System.Threading;
 * `public string LinkToHTML(string Link)` *Gets and URL and returns its HTML content*
 * `public bool VaildateLink(string Link)` *Validates the given link*
 * `public bool HTMLOrNot(string Link)` *Checks if the given URL points to an HTML file or not*
-* `public string MD5Hash(string input)` *Returns the `MD5 Hash` of a `string`
+* `public string MD5Hash(string input)` *Returns the `MD5 Hash` of a `string`*
